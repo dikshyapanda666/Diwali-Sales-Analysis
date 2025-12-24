@@ -61,4 +61,3 @@ The following analyses were performed:
 Author
 
 Diksha Panda
-BSc IT Student
